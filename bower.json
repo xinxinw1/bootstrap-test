@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-test",
+  "authors": [
+    "Xin-Xin Wang - blueberry <xin-xinw@musiclifephilosophy.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iCheck": "icheck#^1.0.2",
+    "font-awesome": "^4.7.0"
+  }
+}
